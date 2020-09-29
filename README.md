@@ -1,7 +1,9 @@
+<!--
 ### Hi there 👋
 
 - 🌱 I’m currently a Ph.D. student at CUHK-MMLab.
 - 📫 Reach me at [my homepage](https://geyixiao.com/).
+-->
 
 ![](https://github-readme-stats.vercel.app/api?username=yxgeee&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
