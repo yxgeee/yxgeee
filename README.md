@@ -1,10 +1,10 @@
 <!--
-- 🌱 I’m currently a Ph.D. student at CUHK-MMLab.
+- 🌱 I’m currently a Researcher at Tencent ARC Lab and Tencent AI Lab.
+- 🔭 I’m currently working on vision and multimodal foundation models.
+- 👯 I’m looking for self-motivated interns to collaborate on related research topics.
 - 📫 Reach me at [my homepage](https://geyixiao.com/).
 -->
 ### Hi there 👋
-
-![](https://github-readme-stats.vercel.app/api?username=yxgeee&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <!--
 **yxgeee/yxgeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
