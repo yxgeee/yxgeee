@@ -1,10 +1,9 @@
-<!--
+### Hi there 👋
+
 - 🌱 I’m currently a Researcher at Tencent ARC Lab and Tencent AI Lab.
 - 🔭 I’m currently working on vision and multimodal foundation models.
 - 👯 I’m looking for self-motivated interns to collaborate on related research topics.
 - 📫 Reach me at [my homepage](https://geyixiao.com/).
--->
-### Hi there 👋
 
 <!--
 **yxgeee/yxgeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
