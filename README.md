@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a Researcher at Tencent ARC Lab and Tencent AI Lab.
+- 🌱 I’m currently a Principal Researcher at Tencent ARC Lab.
 - 🔭 I’m currently working on vision and multimodal foundation models.
 - 👯 I’m looking for self-motivated interns to collaborate on related research topics.
 - 📫 Reach me at [my homepage](https://geyixiao.com/).
